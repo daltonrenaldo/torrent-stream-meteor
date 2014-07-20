@@ -1,0 +1,9 @@
+{
+  "name": "torrent-stream",
+  "description": "torrent-stream is a node module that allows you to access files inside a torrent as node streams.",
+  "homepage": "",
+  "author": "Your Name <pirelouisd87@gmail.com>",
+  "version": "0.0.1",
+  "git": "",
+  "packages": {}
+}
